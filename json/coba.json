@@ -1,0 +1,9 @@
+[
+	{ 
+		"nama" : "Rima Riani",
+		"umur" : 19,
+		"nrp" : "173040117",
+		"lulus" : true,
+		"hobby" : ["gaming", "nonton"]
+	}
+]
