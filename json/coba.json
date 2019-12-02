@@ -4,6 +4,13 @@
 		"umur" : 19,
 		"nrp" : "173040117",
 		"lulus" : true,
-		"hobby" : ["gaming", "nonton"]
+		"hobby" : [
+			"gaming", 
+			"nonton"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Doddy Ferdiansyah",
+			"pembimbing2" : "Erik Doank"
+		}
 	}
 ]
